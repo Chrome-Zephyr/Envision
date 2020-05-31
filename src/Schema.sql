@@ -1,3 +1,4 @@
+#This schema uses Grakn & has been written in Graql
 define
 Node-Template = "Block"
 
